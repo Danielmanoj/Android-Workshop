@@ -1,4 +1,4 @@
-# Android-Workshop-Sriram
+# Android-Workshop-Manoj
 
 Develop a program to create a simple calculator only to perform addition  using Android Studio.
 
@@ -29,9 +29,9 @@ Step 7: Save and run the application.
 
 Program to create simple calculator to perform only addition using Android Studio.
 
-Developed by: Sriram G
+Developed by: Manoj G
 
-RegisterNumber: 212222230149
+RegisterNumber: 212222240060
 
 ## MainActivity.java:
 
